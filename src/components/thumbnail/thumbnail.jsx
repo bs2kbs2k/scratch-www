@@ -104,7 +104,7 @@ const Thumbnail = props => {
                 href={`/users/${props.creator}/`}
             >
                 <img
-                    alt={props.creator}
+                    alt=""
                     src={props.avatar}
                 />
             </a>
